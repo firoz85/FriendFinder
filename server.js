@@ -1,7 +1,3 @@
-/*
-    Steven Tran
-    UofT SCS Coding Bootcamp
-*/
 //requires
 var express = require('express');
 var bodyParser = require('body-parser');
