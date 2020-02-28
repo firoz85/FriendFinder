@@ -7,7 +7,7 @@ Node and Express Servers Exercise
 3) run program using 'npm start'
 
 #### Deployed link
-https://friendfinder.netlify.com/
+https://findexpressfriend.herokuapp.com/
 
 #### Description
 Friend Finder will find the best match from a list of users based on results from the survey.
